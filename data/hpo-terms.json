@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "HP:0001250",
+    "name": "Seizures",
+    "synonyms": ["Epilepsy", "Convulsions", "Fits"]
+  },
+  {
+    "id": "HP:0001252",
+    "name": "Hypotonia",
+    "synonyms": ["Low muscle tone", "Floppy baby", "Muscle weakness"]
+  },
+  {
+    "id": "HP:0001263",
+    "name": "Global developmental delay",
+    "synonyms": [
+      "Developmental delay",
+      "Late milestones",
+      "Delayed development"
+    ]
+  },
+  {
+    "id": "HP:0000256",
+    "name": "Macrocephaly",
+    "synonyms": ["Large head", "Big head"]
+  },
+  { "id": "HP:0000252", "name": "Microcephaly", "synonyms": ["Small head"] },
+  {
+    "id": "HP:0001249",
+    "name": "Intellectual disability",
+    "synonyms": [
+      "Learning disability",
+      "Cognitive impairment",
+      "Mental retardation"
+    ]
+  },
+  {
+    "id": "HP:0000708",
+    "name": "Atypical behavior",
+    "synonyms": ["Behavioral problems", "Behavioral abnormalities"]
+  },
+  {
+    "id": "HP:0002360",
+    "name": "Sleep disturbance",
+    "synonyms": ["Sleep problems", "Insomnia", "Difficulty sleeping"]
+  },
+  {
+    "id": "HP:0001288",
+    "name": "Gait disturbance",
+    "synonyms": [
+      "Walking problems",
+      "Abnormal gait",
+      "Difficulty walking",
+      "Unsteady walk"
+    ]
+  },
+  {
+    "id": "HP:0002019",
+    "name": "Constipation",
+    "synonyms": ["Chronic constipation"]
+  },
+  {
+    "id": "HP:0002014",
+    "name": "Diarrhea",
+    "synonyms": ["Chronic diarrhea", "Loose stools"]
+  },
+  {
+    "id": "HP:0002240",
+    "name": "Hepatomegaly",
+    "synonyms": ["Enlarged liver", "Liver enlargement"]
+  },
+  {
+    "id": "HP:0001744",
+    "name": "Splenomegaly",
+    "synonyms": ["Enlarged spleen"]
+  },
+  {
+    "id": "HP:0000365",
+    "name": "Hearing impairment",
+    "synonyms": ["Hearing loss", "Deafness", "Hard of hearing"]
+  },
+  {
+    "id": "HP:0000518",
+    "name": "Cataract",
+    "synonyms": ["Cataracts", "Cloudy lens"]
+  },
+  {
+    "id": "HP:0000639",
+    "name": "Nystagmus",
+    "synonyms": ["Eye shaking", "Involuntary eye movement"]
+  },
+  {
+    "id": "HP:0001371",
+    "name": "Joint contractures",
+    "synonyms": ["Stiff joints", "Limited range of motion"]
+  },
+  {
+    "id": "HP:0001382",
+    "name": "Joint hypermobility",
+    "synonyms": [
+      "Hypermobile joints",
+      "Double jointed",
+      "Flexible joints",
+      "Bendy joints"
+    ]
+  },
+  {
+    "id": "HP:0001387",
+    "name": "Joint stiffness",
+    "synonyms": ["Stiff joints", "Rigid joints"]
+  },
+  {
+    "id": "HP:0001324",
+    "name": "Muscle weakness",
+    "synonyms": ["Weak muscles", "Loss of strength"]
+  },
+  {
+    "id": "HP:0003326",
+    "name": "Myalgia",
+    "synonyms": ["Muscle pain", "Muscle aches", "Sore muscles"]
+  },
+  {
+    "id": "HP:0002829",
+    "name": "Arthralgia",
+    "synonyms": ["Joint pain", "Sore joints", "Aching joints"]
+  },
+  {
+    "id": "HP:0001635",
+    "name": "Heart failure",
+    "synonyms": ["Congestive heart failure", "Cardiac failure"]
+  },
+  {
+    "id": "HP:0001631",
+    "name": "Atrial septal defect",
+    "synonyms": ["ASD", "Hole in heart"]
+  },
+  {
+    "id": "HP:0001629",
+    "name": "Ventricular septal defect",
+    "synonyms": ["VSD", "Hole in heart"]
+  },
+  {
+    "id": "HP:0001638",
+    "name": "Cardiomyopathy",
+    "synonyms": ["Heart muscle disease", "Enlarged heart"]
+  },
+  {
+    "id": "HP:0001642",
+    "name": "Pulmonic stenosis",
+    "synonyms": ["Pulmonary valve stenosis"]
+  },
+  {
+    "id": "HP:0001999",
+    "name": "Abnormal facial shape",
+    "synonyms": [
+      "Unusual facial features",
+      "Dysmorphic features",
+      "Facial dysmorphism"
+    ]
+  },
+  {
+    "id": "HP:0000347",
+    "name": "Micrognathia",
+    "synonyms": ["Small jaw", "Receding chin", "Small chin"]
+  },
+  {
+    "id": "HP:0000431",
+    "name": "Wide nasal bridge",
+    "synonyms": ["Broad nasal bridge", "Flat nasal bridge"]
+  },
+  { "id": "HP:0000154", "name": "Wide mouth", "synonyms": ["Large mouth"] },
+  {
+    "id": "HP:0000316",
+    "name": "Hypertelorism",
+    "synonyms": ["Wide-set eyes", "Widely spaced eyes"]
+  },
+  {
+    "id": "HP:0000494",
+    "name": "Downslanted palpebral fissures",
+    "synonyms": ["Downward slanting eyes"]
+  },
+  {
+    "id": "HP:0000508",
+    "name": "Ptosis",
+    "synonyms": ["Droopy eyelid", "Drooping eyelid"]
+  },
+  {
+    "id": "HP:0001156",
+    "name": "Brachydactyly",
+    "synonyms": ["Short fingers", "Short toes"]
+  },
+  {
+    "id": "HP:0001159",
+    "name": "Syndactyly",
+    "synonyms": ["Fused fingers", "Webbed fingers", "Fused toes", "Webbed toes"]
+  },
+  {
+    "id": "HP:0001162",
+    "name": "Polydactyly",
+    "synonyms": ["Extra fingers", "Extra toes"]
+  },
+  {
+    "id": "HP:0001363",
+    "name": "Craniosynostosis",
+    "synonyms": ["Premature skull fusion", "Fused skull bones"]
+  },
+  {
+    "id": "HP:0002650",
+    "name": "Scoliosis",
+    "synonyms": ["Curved spine", "Spinal curvature"]
+  },
+  {
+    "id": "HP:0003307",
+    "name": "Hyperlordosis",
+    "synonyms": ["Swayback", "Excessive lower back curve"]
+  },
+  {
+    "id": "HP:0000767",
+    "name": "Pectus excavatum",
+    "synonyms": ["Sunken chest", "Funnel chest"]
+  },
+  {
+    "id": "HP:0000768",
+    "name": "Pectus carinatum",
+    "synonyms": ["Pigeon chest", "Protruding chest"]
+  },
+  {
+    "id": "HP:0001519",
+    "name": "Disproportionate tall stature",
+    "synonyms": ["Unusually tall", "Tall for age"]
+  },
+  {
+    "id": "HP:0004322",
+    "name": "Short stature",
+    "synonyms": ["Small for age", "Growth failure", "Dwarfism"]
+  },
+  {
+    "id": "HP:0001508",
+    "name": "Failure to thrive",
+    "synonyms": ["Poor weight gain", "Not gaining weight", "Poor growth"]
+  },
+  {
+    "id": "HP:0002020",
+    "name": "Gastroesophageal reflux",
+    "synonyms": ["Acid reflux", "GERD", "Reflux", "Spitting up"]
+  },
+  {
+    "id": "HP:0002013",
+    "name": "Vomiting",
+    "synonyms": ["Throwing up", "Nausea and vomiting"]
+  },
+  {
+    "id": "HP:0001903",
+    "name": "Anemia",
+    "synonyms": ["Low red blood cells", "Low hemoglobin"]
+  },
+  {
+    "id": "HP:0001873",
+    "name": "Thrombocytopenia",
+    "synonyms": ["Low platelets", "Low platelet count"]
+  },
+  {
+    "id": "HP:0000952",
+    "name": "Jaundice",
+    "synonyms": ["Yellow skin", "Yellowing of skin and eyes"]
+  },
+  {
+    "id": "HP:0000953",
+    "name": "Hyperpigmentation",
+    "synonyms": ["Dark skin patches", "Skin darkening"]
+  },
+  {
+    "id": "HP:0001030",
+    "name": "Fragile skin",
+    "synonyms": ["Easily bruised skin", "Thin skin", "Skin tears easily"]
+  },
+  {
+    "id": "HP:0000974",
+    "name": "Easy bruisability",
+    "synonyms": ["Bruises easily", "Easy bruising", "Unexplained bruises"]
+  },
+  {
+    "id": "HP:0000988",
+    "name": "Skin rash",
+    "synonyms": ["Rash", "Dermatitis", "Skin eruption"]
+  },
+  {
+    "id": "HP:0001075",
+    "name": "Atopic dermatitis",
+    "synonyms": ["Eczema", "Skin allergy"]
+  },
+  {
+    "id": "HP:0200034",
+    "name": "Papule",
+    "synonyms": ["Skin bumps", "Raised skin lesions"]
+  },
+  { "id": "HP:0001065", "name": "Striae", "synonyms": ["Stretch marks"] },
+  {
+    "id": "HP:0000969",
+    "name": "Edema",
+    "synonyms": ["Swelling", "Fluid retention", "Puffy"]
+  },
+  {
+    "id": "HP:0002315",
+    "name": "Headache",
+    "synonyms": ["Head pain", "Migraine", "Chronic headaches"]
+  },
+  {
+    "id": "HP:0002321",
+    "name": "Vertigo",
+    "synonyms": ["Dizziness", "Room spinning", "Lightheadedness"]
+  },
+  {
+    "id": "HP:0001279",
+    "name": "Syncope",
+    "synonyms": ["Fainting", "Passing out", "Blackouts"]
+  },
+  {
+    "id": "HP:0012332",
+    "name": "Abnormal autonomic nervous system",
+    "synonyms": ["Dysautonomia", "Autonomic dysfunction"]
+  },
+  {
+    "id": "HP:0001945",
+    "name": "Fever",
+    "synonyms": ["Recurrent fevers", "Periodic fever", "High temperature"]
+  },
+  {
+    "id": "HP:0002586",
+    "name": "Peritonitis",
+    "synonyms": ["Abdominal inflammation"]
+  },
+  {
+    "id": "HP:0100280",
+    "name": "Crohn disease",
+    "synonyms": ["Inflammatory bowel disease"]
+  },
+  {
+    "id": "HP:0002027",
+    "name": "Abdominal pain",
+    "synonyms": ["Stomach pain", "Belly pain", "Tummy ache", "Stomach cramps"]
+  },
+  {
+    "id": "HP:0003270",
+    "name": "Abdominal distension",
+    "synonyms": ["Bloating", "Swollen abdomen", "Distended belly"]
+  },
+  {
+    "id": "HP:0002910",
+    "name": "Elevated hepatic transaminases",
+    "synonyms": ["High liver enzymes", "Abnormal liver function"]
+  },
+  {
+    "id": "HP:0000093",
+    "name": "Proteinuria",
+    "synonyms": ["Protein in urine"]
+  },
+  {
+    "id": "HP:0000083",
+    "name": "Renal insufficiency",
+    "synonyms": ["Kidney failure", "Poor kidney function"]
+  },
+  {
+    "id": "HP:0000822",
+    "name": "Hypertension",
+    "synonyms": ["High blood pressure"]
+  },
+  {
+    "id": "HP:0002615",
+    "name": "Hypotension",
+    "synonyms": ["Low blood pressure"]
+  },
+  {
+    "id": "HP:0001962",
+    "name": "Palpitations",
+    "synonyms": ["Racing heart", "Heart pounding", "Fast heartbeat"]
+  },
+  {
+    "id": "HP:0001649",
+    "name": "Tachycardia",
+    "synonyms": ["Fast heart rate", "Rapid heartbeat"]
+  },
+  {
+    "id": "HP:0001678",
+    "name": "Atrioventricular block",
+    "synonyms": ["Heart block"]
+  },
+  {
+    "id": "HP:0002094",
+    "name": "Dyspnea",
+    "synonyms": [
+      "Shortness of breath",
+      "Difficulty breathing",
+      "Breathlessness"
+    ]
+  },
+  {
+    "id": "HP:0002099",
+    "name": "Asthma",
+    "synonyms": ["Wheezing", "Reactive airway"]
+  },
+  {
+    "id": "HP:0010783",
+    "name": "Erythema",
+    "synonyms": ["Skin redness", "Flushing", "Red skin"]
+  },
+  {
+    "id": "HP:0000989",
+    "name": "Pruritus",
+    "synonyms": ["Itching", "Itchy skin"]
+  },
+  {
+    "id": "HP:0001369",
+    "name": "Arthritis",
+    "synonyms": ["Joint inflammation", "Inflamed joints"]
+  },
+  {
+    "id": "HP:0003202",
+    "name": "Skeletal muscle atrophy",
+    "synonyms": ["Muscle wasting", "Muscle loss"]
+  },
+  { "id": "HP:0002650", "name": "Scoliosis", "synonyms": ["Curved spine"] },
+  {
+    "id": "HP:0002808",
+    "name": "Kyphosis",
+    "synonyms": ["Rounded upper back", "Hunched back"]
+  },
+  {
+    "id": "HP:0000407",
+    "name": "Sensorineural hearing impairment",
+    "synonyms": ["Nerve deafness", "Inner ear hearing loss"]
+  },
+  {
+    "id": "HP:0000486",
+    "name": "Strabismus",
+    "synonyms": ["Crossed eyes", "Squint", "Lazy eye"]
+  },
+  {
+    "id": "HP:0000545",
+    "name": "Myopia",
+    "synonyms": ["Nearsightedness", "Short-sightedness"]
+  },
+  {
+    "id": "HP:0007957",
+    "name": "Corneal opacity",
+    "synonyms": ["Cloudy cornea"]
+  },
+  {
+    "id": "HP:0000648",
+    "name": "Optic atrophy",
+    "synonyms": ["Optic nerve damage"]
+  },
+  {
+    "id": "HP:0001347",
+    "name": "Hyperreflexia",
+    "synonyms": ["Overactive reflexes", "Brisk reflexes"]
+  },
+  {
+    "id": "HP:0001290",
+    "name": "Generalized hypotonia",
+    "synonyms": ["Overall low muscle tone"]
+  },
+  {
+    "id": "HP:0007340",
+    "name": "Lower limb muscle weakness",
+    "synonyms": ["Weak legs", "Leg weakness"]
+  },
+  {
+    "id": "HP:0003690",
+    "name": "Limb muscle weakness",
+    "synonyms": ["Weak arms and legs"]
+  },
+  {
+    "id": "HP:0002066",
+    "name": "Gait ataxia",
+    "synonyms": ["Unsteady walking", "Wobbly gait", "Ataxic gait"]
+  },
+  {
+    "id": "HP:0002073",
+    "name": "Progressive cerebellar ataxia",
+    "synonyms": ["Worsening balance", "Progressive ataxia"]
+  },
+  {
+    "id": "HP:0001251",
+    "name": "Cerebellar ataxia",
+    "synonyms": ["Poor balance", "Coordination problems", "Ataxia"]
+  },
+  {
+    "id": "HP:0001257",
+    "name": "Spasticity",
+    "synonyms": ["Muscle stiffness", "Tight muscles", "Increased muscle tone"]
+  },
+  {
+    "id": "HP:0001332",
+    "name": "Dystonia",
+    "synonyms": ["Involuntary muscle contractions", "Twisting movements"]
+  },
+  {
+    "id": "HP:0001336",
+    "name": "Myoclonus",
+    "synonyms": ["Muscle jerks", "Jerking movements"]
+  },
+  {
+    "id": "HP:0001337",
+    "name": "Tremor",
+    "synonyms": ["Shaking", "Trembling"]
+  },
+  {
+    "id": "HP:0000738",
+    "name": "Hallucinations",
+    "synonyms": ["Seeing or hearing things"]
+  },
+  {
+    "id": "HP:0000726",
+    "name": "Dementia",
+    "synonyms": ["Cognitive decline", "Memory loss"]
+  },
+  {
+    "id": "HP:0100710",
+    "name": "Impulsivity",
+    "synonyms": ["Impulsive behavior"]
+  },
+  {
+    "id": "HP:0000729",
+    "name": "Autistic behavior",
+    "synonyms": ["Autism spectrum", "ASD traits", "Autism"]
+  },
+  {
+    "id": "HP:0007018",
+    "name": "Attention deficit hyperactivity disorder",
+    "synonyms": ["ADHD", "Hyperactivity", "Attention problems"]
+  },
+  {
+    "id": "HP:0000739",
+    "name": "Anxiety",
+    "synonyms": ["Anxiety disorder", "Excessive worry"]
+  },
+  {
+    "id": "HP:0000716",
+    "name": "Depression",
+    "synonyms": ["Depressed mood", "Low mood"]
+  },
+  {
+    "id": "HP:0002076",
+    "name": "Migraine",
+    "synonyms": ["Migraine headaches", "Severe headaches"]
+  },
+  {
+    "id": "HP:0002018",
+    "name": "Nausea",
+    "synonyms": ["Feeling sick", "Queasy"]
+  },
+  {
+    "id": "HP:0001596",
+    "name": "Alopecia",
+    "synonyms": ["Hair loss", "Bald patches", "Thinning hair"]
+  },
+  {
+    "id": "HP:0008404",
+    "name": "Nail dystrophy",
+    "synonyms": ["Abnormal nails", "Brittle nails", "Nail problems"]
+  },
+  {
+    "id": "HP:0000407",
+    "name": "Sensorineural hearing loss",
+    "synonyms": ["Nerve hearing loss"]
+  },
+  {
+    "id": "HP:0002104",
+    "name": "Apnea",
+    "synonyms": ["Sleep apnea", "Breathing pauses during sleep"]
+  },
+  {
+    "id": "HP:0002870",
+    "name": "Obstructive sleep apnea",
+    "synonyms": ["OSA", "Snoring with breathing pauses"]
+  },
+  {
+    "id": "HP:0025406",
+    "name": "Weakness",
+    "synonyms": ["General weakness", "Fatigue", "Tiredness", "Chronic fatigue"]
+  },
+  {
+    "id": "HP:0012378",
+    "name": "Fatigue",
+    "synonyms": ["Tiredness", "Exhaustion", "Chronic fatigue", "Always tired"]
+  },
+  {
+    "id": "HP:0000964",
+    "name": "Eczema",
+    "synonyms": ["Atopic dermatitis", "Dry itchy skin"]
+  },
+  {
+    "id": "HP:0002719",
+    "name": "Recurrent infections",
+    "synonyms": ["Frequent infections", "Getting sick often"]
+  },
+  {
+    "id": "HP:0002960",
+    "name": "Autoimmunity",
+    "synonyms": ["Autoimmune disease", "Autoimmune disorder"]
+  },
+  {
+    "id": "HP:0100806",
+    "name": "Sepsis",
+    "synonyms": ["Blood infection", "Systemic infection"]
+  },
+  {
+    "id": "HP:0100543",
+    "name": "Cognitive impairment",
+    "synonyms": ["Brain fog", "Thinking problems", "Poor concentration"]
+  },
+  {
+    "id": "HP:0002079",
+    "name": "Hypoplasia of the corpus callosum",
+    "synonyms": ["Thin corpus callosum"]
+  },
+  {
+    "id": "HP:0030680",
+    "name": "Abnormality of cardiovascular system morphology",
+    "synonyms": ["Heart defect", "Cardiac abnormality"]
+  },
+  {
+    "id": "HP:0000098",
+    "name": "Tall stature",
+    "synonyms": ["Very tall", "Above average height"]
+  },
+  {
+    "id": "HP:0000218",
+    "name": "High palate",
+    "synonyms": ["High arched palate", "Narrow palate"]
+  },
+  {
+    "id": "HP:0000175",
+    "name": "Cleft palate",
+    "synonyms": ["Palate cleft", "Split palate"]
+  },
+  {
+    "id": "HP:0000028",
+    "name": "Cryptorchidism",
+    "synonyms": ["Undescended testes", "Undescended testicle"]
+  },
+  {
+    "id": "HP:0000047",
+    "name": "Hypospadias",
+    "synonyms": ["Abnormal urethral opening"]
+  },
+  {
+    "id": "HP:0011675",
+    "name": "Arrhythmia",
+    "synonyms": ["Irregular heartbeat", "Heart rhythm problems"]
+  },
+  {
+    "id": "HP:0001639",
+    "name": "Hypertrophic cardiomyopathy",
+    "synonyms": ["Thickened heart muscle", "HCM"]
+  },
+  {
+    "id": "HP:0001634",
+    "name": "Mitral valve prolapse",
+    "synonyms": ["MVP", "Floppy mitral valve"]
+  },
+  {
+    "id": "HP:0000271",
+    "name": "Abnormality of the face",
+    "synonyms": ["Facial abnormality", "Unusual face"]
+  },
+  {
+    "id": "HP:0002579",
+    "name": "Gastrointestinal atony",
+    "synonyms": ["Slow gut", "Gastroparesis", "Delayed gastric emptying"]
+  },
+  { "id": "HP:0003765", "name": "Psoriasis", "synonyms": ["Psoriatic skin"] },
+  { "id": "HP:0001056", "name": "Milia", "synonyms": ["Small white bumps"] },
+  {
+    "id": "HP:0000225",
+    "name": "Oral cleft",
+    "synonyms": ["Cleft lip", "Harelip"]
+  },
+  {
+    "id": "HP:0005280",
+    "name": "Depressed nasal bridge",
+    "synonyms": ["Flat nose bridge", "Low nasal bridge"]
+  },
+  {
+    "id": "HP:0001760",
+    "name": "Abnormality of the foot",
+    "synonyms": ["Foot problems", "Foot deformity"]
+  },
+  {
+    "id": "HP:0001763",
+    "name": "Pes planus",
+    "synonyms": ["Flat feet", "Fallen arches"]
+  },
+  {
+    "id": "HP:0001770",
+    "name": "Toe syndactyly",
+    "synonyms": ["Webbed toes", "Fused toes"]
+  },
+  {
+    "id": "HP:0002797",
+    "name": "Osteolysis",
+    "synonyms": ["Bone destruction", "Bone loss"]
+  },
+  {
+    "id": "HP:0002659",
+    "name": "Increased susceptibility to fractures",
+    "synonyms": ["Brittle bones", "Breaks bones easily", "Frequent fractures"]
+  },
+  {
+    "id": "HP:0002757",
+    "name": "Recurrent fractures",
+    "synonyms": ["Multiple broken bones", "Frequent bone breaks"]
+  },
+  {
+    "id": "HP:0000592",
+    "name": "Blue sclerae",
+    "synonyms": ["Blue whites of eyes"]
+  },
+  {
+    "id": "HP:0000023",
+    "name": "Inguinal hernia",
+    "synonyms": ["Groin hernia"]
+  },
+  {
+    "id": "HP:0001537",
+    "name": "Umbilical hernia",
+    "synonyms": ["Belly button hernia"]
+  },
+  { "id": "HP:0002650", "name": "Scoliosis", "synonyms": ["Spine curvature"] },
+  { "id": "HP:0002808", "name": "Kyphosis", "synonyms": ["Hunched back"] },
+  {
+    "id": "HP:0012531",
+    "name": "Pain",
+    "synonyms": ["Chronic pain", "Widespread pain"]
+  },
+  {
+    "id": "HP:0003394",
+    "name": "Muscle cramps",
+    "synonyms": ["Leg cramps", "Charley horse"]
+  },
+  {
+    "id": "HP:0025502",
+    "name": "Overweight",
+    "synonyms": ["Obesity", "Weight gain", "Obese"]
+  },
+  {
+    "id": "HP:0004325",
+    "name": "Decreased body weight",
+    "synonyms": ["Weight loss", "Underweight", "Losing weight"]
+  },
+  {
+    "id": "HP:0011968",
+    "name": "Feeding difficulties",
+    "synonyms": ["Difficulty eating", "Poor feeding", "Won't eat"]
+  },
+  {
+    "id": "HP:0002721",
+    "name": "Immunodeficiency",
+    "synonyms": ["Weak immune system", "Low immunity"]
+  },
+  {
+    "id": "HP:0000855",
+    "name": "Insulin resistance",
+    "synonyms": ["Prediabetes", "Metabolic syndrome"]
+  },
+  {
+    "id": "HP:0000819",
+    "name": "Diabetes mellitus",
+    "synonyms": ["Diabetes", "High blood sugar"]
+  },
+  {
+    "id": "HP:0000821",
+    "name": "Hypothyroidism",
+    "synonyms": ["Underactive thyroid", "Low thyroid"]
+  },
+  {
+    "id": "HP:0000836",
+    "name": "Hyperthyroidism",
+    "synonyms": ["Overactive thyroid"]
+  },
+  {
+    "id": "HP:0000826",
+    "name": "Precocious puberty",
+    "synonyms": ["Early puberty"]
+  },
+  {
+    "id": "HP:0000823",
+    "name": "Delayed puberty",
+    "synonyms": ["Late puberty"]
+  },
+  { "id": "HP:0002900", "name": "Hypokalemia", "synonyms": ["Low potassium"] },
+  {
+    "id": "HP:0002153",
+    "name": "Hyperkalemia",
+    "synonyms": ["High potassium"]
+  },
+  { "id": "HP:0003072", "name": "Hypercalcemia", "synonyms": ["High calcium"] },
+  { "id": "HP:0002901", "name": "Hypocalcemia", "synonyms": ["Low calcium"] },
+  {
+    "id": "HP:0002148",
+    "name": "Hypophosphatemia",
+    "synonyms": ["Low phosphate"]
+  },
+  {
+    "id": "HP:0003155",
+    "name": "Elevated alkaline phosphatase",
+    "synonyms": ["High ALP"]
+  },
+  {
+    "id": "HP:0003355",
+    "name": "Aminoaciduria",
+    "synonyms": ["Amino acids in urine"]
+  },
+  {
+    "id": "HP:0001547",
+    "name": "Abnormality of the rib cage",
+    "synonyms": ["Rib anomaly", "Chest wall deformity"]
+  },
+  { "id": "HP:0002650", "name": "Scoliosis", "synonyms": [] },
+  {
+    "id": "HP:0000822",
+    "name": "Hypertension",
+    "synonyms": ["High blood pressure"]
+  },
+  {
+    "id": "HP:0000272",
+    "name": "Malar flattening",
+    "synonyms": ["Flat cheekbones", "Underdeveloped cheekbones"]
+  },
+  {
+    "id": "HP:0002205",
+    "name": "Recurrent respiratory infections",
+    "synonyms": [
+      "Frequent chest infections",
+      "Keeps getting colds",
+      "Recurrent pneumonia"
+    ]
+  },
+  {
+    "id": "HP:0000077",
+    "name": "Abnormality of the kidney",
+    "synonyms": ["Kidney problems", "Renal anomaly"]
+  },
+  {
+    "id": "HP:0001561",
+    "name": "Polyhydramnios",
+    "synonyms": ["Excess amniotic fluid"]
+  },
+  { "id": "HP:0100021", "name": "Cerebral palsy", "synonyms": ["CP"] },
+  {
+    "id": "HP:0002910",
+    "name": "Elevated hepatic transaminases",
+    "synonyms": ["High liver enzymes"]
+  },
+  {
+    "id": "HP:0001394",
+    "name": "Cirrhosis",
+    "synonyms": ["Liver cirrhosis", "Liver scarring"]
+  },
+  {
+    "id": "HP:0001392",
+    "name": "Abnormality of the liver",
+    "synonyms": ["Liver problems", "Liver disease"]
+  },
+  {
+    "id": "HP:0000707",
+    "name": "Abnormality of the nervous system",
+    "synonyms": ["Neurological problems"]
+  },
+  {
+    "id": "HP:0000598",
+    "name": "Abnormality of the ear",
+    "synonyms": ["Ear problems", "Abnormal ears"]
+  },
+  {
+    "id": "HP:0000234",
+    "name": "Abnormality of the head",
+    "synonyms": ["Head shape abnormality"]
+  },
+  {
+    "id": "HP:0003011",
+    "name": "Abnormality of the musculature",
+    "synonyms": ["Muscle problems"]
+  },
+  {
+    "id": "HP:0040064",
+    "name": "Abnormality of limbs",
+    "synonyms": ["Limb abnormalities"]
+  },
+  {
+    "id": "HP:0001507",
+    "name": "Growth abnormality",
+    "synonyms": ["Growth problems", "Abnormal growth"]
+  },
+  {
+    "id": "HP:0002086",
+    "name": "Abnormality of the respiratory system",
+    "synonyms": ["Breathing problems", "Respiratory problems"]
+  },
+  {
+    "id": "HP:0025031",
+    "name": "Abnormality of the digestive system",
+    "synonyms": ["Digestive problems", "GI problems"]
+  },
+  {
+    "id": "HP:0001626",
+    "name": "Abnormality of the cardiovascular system",
+    "synonyms": ["Heart problems", "Cardiovascular problems"]
+  },
+  {
+    "id": "HP:0000119",
+    "name": "Abnormality of the genitourinary system",
+    "synonyms": ["Urinary problems", "Genital abnormality"]
+  },
+  {
+    "id": "HP:0001574",
+    "name": "Abnormality of the integument",
+    "synonyms": ["Skin problems", "Skin abnormalities"]
+  },
+  {
+    "id": "HP:0000478",
+    "name": "Abnormality of the eye",
+    "synonyms": ["Eye problems", "Vision problems"]
+  },
+  {
+    "id": "HP:0000818",
+    "name": "Abnormality of the endocrine system",
+    "synonyms": ["Hormonal problems", "Endocrine disorder"]
+  },
+  {
+    "id": "HP:0001871",
+    "name": "Abnormality of blood and blood-forming tissues",
+    "synonyms": ["Blood disorder", "Blood problems"]
+  },
+  {
+    "id": "HP:0002715",
+    "name": "Abnormality of the immune system",
+    "synonyms": ["Immune system problems"]
+  },
+  {
+    "id": "HP:0003549",
+    "name": "Abnormality of connective tissue",
+    "synonyms": ["Connective tissue disorder"]
+  },
+  {
+    "id": "HP:0003808",
+    "name": "Abnormal muscle tone",
+    "synonyms": ["Tone abnormality"]
+  },
+  {
+    "id": "HP:0010780",
+    "name": "Hyperacusis",
+    "synonyms": [
+      "Sound sensitivity",
+      "Noise sensitivity",
+      "Sensitive to loud sounds"
+    ]
+  },
+  {
+    "id": "HP:0000737",
+    "name": "Irritability",
+    "synonyms": ["Easily irritated", "Fussy", "Cranky"]
+  },
+  {
+    "id": "HP:0002180",
+    "name": "Neurodegeneration",
+    "synonyms": ["Brain degeneration", "Progressive neurological decline"]
+  },
+  {
+    "id": "HP:0003128",
+    "name": "Lactic acidosis",
+    "synonyms": ["High lactic acid"]
+  },
+  {
+    "id": "HP:0001298",
+    "name": "Encephalopathy",
+    "synonyms": ["Brain dysfunction", "Altered mental status"]
+  },
+  {
+    "id": "HP:0002133",
+    "name": "Status epilepticus",
+    "synonyms": ["Prolonged seizures", "Non-stop seizures"]
+  },
+  {
+    "id": "HP:0010864",
+    "name": "Intellectual disability, severe",
+    "synonyms": ["Severe learning disability", "Profound cognitive impairment"]
+  },
+  {
+    "id": "HP:0006808",
+    "name": "Cerebral hypoplasia",
+    "synonyms": ["Small brain", "Underdeveloped brain"]
+  },
+  {
+    "id": "HP:0002353",
+    "name": "EEG abnormality",
+    "synonyms": ["Abnormal brain waves"]
+  },
+  {
+    "id": "HP:0001511",
+    "name": "Intrauterine growth retardation",
+    "synonyms": ["IUGR", "Small for gestational age", "Poor fetal growth"]
+  },
+  {
+    "id": "HP:0001518",
+    "name": "Small for gestational age",
+    "synonyms": ["Born small", "Low birth weight"]
+  },
+  {
+    "id": "HP:0001622",
+    "name": "Premature birth",
+    "synonyms": ["Preterm birth", "Born early", "Premature"]
+  },
+  {
+    "id": "HP:0001558",
+    "name": "Decreased fetal movement",
+    "synonyms": ["Baby not moving much"]
+  },
+  {
+    "id": "HP:0001612",
+    "name": "Weak cry",
+    "synonyms": ["Quiet cry", "Feeble cry"]
+  },
+  {
+    "id": "HP:0002033",
+    "name": "Poor suck",
+    "synonyms": ["Difficulty sucking", "Weak suck"]
+  },
+  {
+    "id": "HP:0031844",
+    "name": "Urticaria",
+    "synonyms": ["Hives", "Welts", "Raised itchy bumps"]
+  },
+  { "id": "HP:0000969", "name": "Edema", "synonyms": ["Swelling"] },
+  {
+    "id": "HP:0003474",
+    "name": "Somatic sensory dysfunction",
+    "synonyms": [
+      "Numbness",
+      "Tingling",
+      "Pins and needles",
+      "Peripheral neuropathy"
+    ]
+  },
+  {
+    "id": "HP:0009830",
+    "name": "Peripheral neuropathy",
+    "synonyms": ["Nerve damage", "Tingling in hands and feet", "Neuropathy"]
+  },
+  {
+    "id": "HP:0002607",
+    "name": "Bowel incontinence",
+    "synonyms": ["Fecal incontinence", "Loss of bowel control"]
+  },
+  {
+    "id": "HP:0000020",
+    "name": "Urinary incontinence",
+    "synonyms": ["Loss of bladder control", "Wetting"]
+  },
+  {
+    "id": "HP:0000016",
+    "name": "Urinary retention",
+    "synonyms": ["Difficulty urinating", "Can't empty bladder"]
+  },
+  {
+    "id": "HP:0100546",
+    "name": "Abnormality of the vertebral column",
+    "synonyms": ["Spine problems", "Back problems"]
+  },
+  {
+    "id": "HP:0003312",
+    "name": "Abnormal form of the vertebral bodies",
+    "synonyms": ["Vertebral anomaly"]
+  },
+  {
+    "id": "HP:0002143",
+    "name": "Abnormality of the spinal cord",
+    "synonyms": ["Spinal cord problems"]
+  },
+  {
+    "id": "HP:0030319",
+    "name": "Weakness of facial musculature",
+    "synonyms": ["Facial weakness", "Droopy face"]
+  },
+  {
+    "id": "HP:0000602",
+    "name": "Ophthalmoplegia",
+    "synonyms": ["Eye movement problems", "Cannot move eyes"]
+  },
+  {
+    "id": "HP:0001348",
+    "name": "Brisk reflexes",
+    "synonyms": ["Hyperreflexia", "Overactive reflexes"]
+  },
+  {
+    "id": "HP:0001349",
+    "name": "Absent reflexes",
+    "synonyms": ["No reflexes", "Areflexia"]
+  },
+  {
+    "id": "HP:0002093",
+    "name": "Respiratory insufficiency",
+    "synonyms": ["Breathing difficulty", "Respiratory failure"]
+  },
+  {
+    "id": "HP:0002878",
+    "name": "Respiratory failure",
+    "synonyms": ["Lungs failing", "Cannot breathe"]
+  },
+  {
+    "id": "HP:0002317",
+    "name": "Unsteady gait",
+    "synonyms": ["Wobbly walking", "Staggering"]
+  },
+  {
+    "id": "HP:0002355",
+    "name": "Difficulty walking",
+    "synonyms": ["Trouble walking", "Can't walk well"]
+  },
+  {
+    "id": "HP:0006895",
+    "name": "Lower limb hypertonia",
+    "synonyms": ["Stiff legs", "Tight leg muscles"]
+  },
+  {
+    "id": "HP:0003552",
+    "name": "Muscle stiffness",
+    "synonyms": ["Stiff muscles", "Rigid muscles"]
+  },
+  {
+    "id": "HP:0100660",
+    "name": "Dyskinesia",
+    "synonyms": ["Involuntary movements", "Uncontrolled movements"]
+  },
+  {
+    "id": "HP:0002167",
+    "name": "Abnormality of speech",
+    "synonyms": ["Speech problems", "Difficulty speaking", "Speech delay"]
+  },
+  {
+    "id": "HP:0002381",
+    "name": "Aphasia",
+    "synonyms": ["Loss of speech", "Cannot speak"]
+  },
+  {
+    "id": "HP:0000750",
+    "name": "Delayed speech and language development",
+    "synonyms": ["Speech delay", "Late talker", "Language delay"]
+  },
+  {
+    "id": "HP:0002011",
+    "name": "Morphological central nervous system abnormality",
+    "synonyms": ["Brain abnormality", "Brain malformation"]
+  },
+  {
+    "id": "HP:0010301",
+    "name": "Spinal dysraphism",
+    "synonyms": ["Spina bifida", "Open spine"]
+  },
+  {
+    "id": "HP:0002144",
+    "name": "Tethered cord",
+    "synonyms": [
+      "Tethered spinal cord",
+      "Spinal cord tethering",
+      "Tethered cord syndrome"
+    ]
+  },
+  {
+    "id": "HP:0002350",
+    "name": "Cerebellar cyst",
+    "synonyms": ["Cyst in cerebellum"]
+  },
+  {
+    "id": "HP:0007360",
+    "name": "Aplasia/Hypoplasia of the cerebellum",
+    "synonyms": ["Small cerebellum", "Missing cerebellum"]
+  },
+  {
+    "id": "HP:0002126",
+    "name": "Polymicrogyria",
+    "synonyms": ["Too many small brain folds"]
+  },
+  {
+    "id": "HP:0002119",
+    "name": "Ventriculomegaly",
+    "synonyms": ["Enlarged brain ventricles", "Hydrocephalus"]
+  },
+  {
+    "id": "HP:0000238",
+    "name": "Hydrocephalus",
+    "synonyms": ["Water on the brain", "Fluid on the brain"]
+  }
+]

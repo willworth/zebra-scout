@@ -1,0 +1,7 @@
+
+> @willworth/zebra-scout@0.1.0 lint /Users/willworth/code/monorepo/sites/zebra-scout
+> next lint
+
+
+ ⚠ The Next.js plugin was not detected in your ESLint configuration. See https://nextjs.org/docs/app/api-reference/config/eslint#migrating-existing-config
+✔ No ESLint warnings or errors
